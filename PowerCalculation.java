@@ -7,7 +7,7 @@ public class PowerCalculation {
            return 1;
           }
          else{
-           return base*powe(base,exponent-1);
+           return base*power(base,exponent-1);
           }
  }
 
